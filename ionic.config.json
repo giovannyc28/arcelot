@@ -1,0 +1,8 @@
+{
+  "name": "arcelot4",
+  "app_id": "ee510e23",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
